@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/compo-aliment/static/css/main.9baea69b.css",
+    "main.js": "/compo-aliment/static/js/main.f84f15e0.js",
+    "static/media/du-boeuf.png": "/compo-aliment/static/media/du-boeuf.531844dce7e127e90868.png",
+    "static/media/chouxfleur.png": "/compo-aliment/static/media/chouxfleur.e88be5ac51387f14cc95.png",
+    "static/media/laitue.png": "/compo-aliment/static/media/laitue.dd6fef75a68f8b11a335.png",
+    "static/media/turkey.png": "/compo-aliment/static/media/turkey.93d8d5070a9feace5340.png",
+    "static/media/fish.png": "/compo-aliment/static/media/fish.c0ac81e959823461c46f.png",
+    "static/media/endive-belge.png": "/compo-aliment/static/media/endive-belge.14b6c6980439d97853e2.png",
+    "static/media/salmon.png": "/compo-aliment/static/media/salmon.370b2e8c6bfcadf2faad.png",
+    "static/media/lamb.png": "/compo-aliment/static/media/lamb.da06256659562ad7fd77.png",
+    "static/media/horse.png": "/compo-aliment/static/media/horse.f1416a740dc8a2b73241.png",
+    "static/media/brocolis.png": "/compo-aliment/static/media/brocolis.6284ee2c79c2526ea7d6.png",
+    "static/media/pork.png": "/compo-aliment/static/media/pork.68979f4079453e6bf32c.png",
+    "static/media/herring.png": "/compo-aliment/static/media/herring.de90e8fa6e5861f9e000.png",
+    "static/media/sweet-potato.png": "/compo-aliment/static/media/sweet-potato.5f263aa1d7ffea37fb2e.png",
+    "static/media/rice-bowl.png": "/compo-aliment/static/media/rice-bowl.236b7d6b00c398a5985b.png",
+    "static/media/prune.png": "/compo-aliment/static/media/prune.2ef234bd11e6a2205477.png",
+    "static/media/tuna.png": "/compo-aliment/static/media/tuna.f3c5fe557507caac247e.png",
+    "static/media/potato.png": "/compo-aliment/static/media/potato.61e64c611fcb371797f1.png",
+    "static/media/chicken-leg.png": "/compo-aliment/static/media/chicken-leg.d0685b317adffb10026b.png",
+    "static/media/kiwi.png": "/compo-aliment/static/media/kiwi.ad19b939c4a4573712a6.png",
+    "static/media/sardines.png": "/compo-aliment/static/media/sardines.e18f7567bef792d86a3f.png",
+    "static/media/mackerel.png": "/compo-aliment/static/media/mackerel.19c44b6c3d9a881ca79f.png",
+    "static/media/banane.png": "/compo-aliment/static/media/banane.5c6852b26f0d7221eb0a.png",
+    "static/media/epinard.png": "/compo-aliment/static/media/epinard.c5dd99cdd9983495f2c5.png",
+    "static/media/pasta.png": "/compo-aliment/static/media/pasta.f5959c907b013b656b87.png",
+    "static/media/poire.png": "/compo-aliment/static/media/poire.3fd5dae2edbb46fe17aa.png",
+    "static/media/carotte.png": "/compo-aliment/static/media/carotte.3db2326c40a27c78f352.png",
+    "static/media/melon.png": "/compo-aliment/static/media/melon.d64fd6d02f175bac51af.png",
+    "static/media/boulgour.png": "/compo-aliment/static/media/boulgour.c8fa7040f3109b610976.png",
+    "static/media/quinoa.png": "/compo-aliment/static/media/quinoa.c8fa7040f3109b610976.png",
+    "static/media/pomme.png": "/compo-aliment/static/media/pomme.9b6e6b0ad5311be7c362.png",
+    "index.html": "/compo-aliment/index.html",
+    "main.9baea69b.css.map": "/compo-aliment/static/css/main.9baea69b.css.map",
+    "main.f84f15e0.js.map": "/compo-aliment/static/js/main.f84f15e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9baea69b.css",
+    "static/js/main.f84f15e0.js"
+  ]
+}
